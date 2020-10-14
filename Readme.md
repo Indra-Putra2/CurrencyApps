@@ -59,5 +59,6 @@ public string usdToIdr(string nominal)
    sehingga hasilnya akan mengeluarkan **"invalid"**.
 
 5. Class Diagram
+
    ![Class Diagram](CurrencyApps/Class%20Diagram.jpg)
     
